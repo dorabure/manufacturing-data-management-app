@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net8.0-windows</TargetFramework><RootNamespace>ManufacturingDataApp.Application</RootNamespace><OptionStrict>On</OptionStrict><OptionExplicit>On</OptionExplicit><OptionInfer>On</OptionInfer></PropertyGroup>
+  <ItemGroup><ProjectReference Include="..\ManufacturingDataApp.Domain\ManufacturingDataApp.Domain.vbproj" /></ItemGroup>
+</Project>

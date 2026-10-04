@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+TestResults/
+artifacts/
+dist/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+
+.periodic-import/
+owner.lock
+AGENTS.md
+CLAUDE.md
